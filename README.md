@@ -1,1 +1,1 @@
-# NewProject1
+This is a Tribute page of Sushant Singh Rajput
